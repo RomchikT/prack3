@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\roma\source\repos\игры\игры\bin\Debug\net6.0\игры.exe
 C:\Users\roma\source\repos\игры\игры\bin\Debug\net6.0\игры.deps.json
 C:\Users\roma\source\repos\игры\игры\bin\Debug\net6.0\игры.runtimeconfig.json
@@ -13,3 +14,20 @@ C:\Users\roma\source\repos\игры\игры\obj\Debug\net6.0\refint\игры.dl
 C:\Users\roma\source\repos\игры\игры\obj\Debug\net6.0\игры.pdb
 C:\Users\roma\source\repos\игры\игры\obj\Debug\net6.0\игры.genruntimeconfig.cache
 C:\Users\roma\source\repos\игры\игры\obj\Debug\net6.0\ref\игры.dll
+=======
+C:\Users\roma\source\repos\игры\игры\bin\Debug\net6.0\игры.exe
+C:\Users\roma\source\repos\игры\игры\bin\Debug\net6.0\игры.deps.json
+C:\Users\roma\source\repos\игры\игры\bin\Debug\net6.0\игры.runtimeconfig.json
+C:\Users\roma\source\repos\игры\игры\bin\Debug\net6.0\игры.dll
+C:\Users\roma\source\repos\игры\игры\bin\Debug\net6.0\игры.pdb
+C:\Users\roma\source\repos\игры\игры\obj\Debug\net6.0\игры.csproj.AssemblyReference.cache
+C:\Users\roma\source\repos\игры\игры\obj\Debug\net6.0\игры.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roma\source\repos\игры\игры\obj\Debug\net6.0\игры.AssemblyInfoInputs.cache
+C:\Users\roma\source\repos\игры\игры\obj\Debug\net6.0\игры.AssemblyInfo.cs
+C:\Users\roma\source\repos\игры\игры\obj\Debug\net6.0\игры.csproj.CoreCompileInputs.cache
+C:\Users\roma\source\repos\игры\игры\obj\Debug\net6.0\игры.dll
+C:\Users\roma\source\repos\игры\игры\obj\Debug\net6.0\refint\игры.dll
+C:\Users\roma\source\repos\игры\игры\obj\Debug\net6.0\игры.pdb
+C:\Users\roma\source\repos\игры\игры\obj\Debug\net6.0\игры.genruntimeconfig.cache
+C:\Users\roma\source\repos\игры\игры\obj\Debug\net6.0\ref\игры.dll
+>>>>>>> e6b02d7640a8f988b8c094f28807a95971c562c8
